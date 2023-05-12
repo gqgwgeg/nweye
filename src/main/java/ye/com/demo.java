@@ -9,10 +9,10 @@ public class demo {
         System.out.println("三国的武将有哪些");
         ArrayList<String> arr = new ArrayList();
         arr.add("张飞");
-        arr.add("关羽");
-        arr.add("赵黎龙");
-        arr.add("徐庶");
-        arr.add("曹孟德");
+        arr.add("张菲");
+        arr.add("无敌");
+        arr.add("张军");
+        arr.add("阿雅");
         arr.add("刘备");
         for (String s : arr) {
 
