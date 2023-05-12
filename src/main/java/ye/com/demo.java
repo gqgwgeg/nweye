@@ -13,15 +13,8 @@ public class demo {
         arr.add("无敌");
         arr.add("张军");
         arr.add("阿雅");
-
-        arr.add("jjj");
         for (String s : arr) {
-
             System.out.println("三国武将:"+s);
         }
-
-//测试的东西
-        //一个的 的的的懂得的的的
-
     }
 }
