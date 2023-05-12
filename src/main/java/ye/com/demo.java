@@ -18,6 +18,9 @@ public class demo {
 
             System.out.println("三国武将:"+s);
         }
+        System.out.println(
+                "三国的武将有谁"
+        );
 
 
     }
