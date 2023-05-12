@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class demo {
 
     public static void main(String[] args) {
-        System.out.println("今天的天气不太好"  );
-        System.out.println("学习在idea中使用git");
+       System.out.println("远程库代码");
+        System.out.println("三国的武将有哪些");
         ArrayList<String> arr = new ArrayList();
         arr.add("张飞");
         arr.add("关羽");
