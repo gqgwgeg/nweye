@@ -19,7 +19,9 @@ public class demo {
             System.out.println("三国武将:"+s);
         }
 
-
+        int i=11;
+        String srt="测试字符串";
+        System.out.println("具体的东西有哪些");
 
     }
 }
