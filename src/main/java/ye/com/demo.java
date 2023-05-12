@@ -13,7 +13,7 @@ public class demo {
         arr.add("无敌");
         arr.add("张军");
         arr.add("阿雅");
-        arr.add("刘备");
+
         for (String s : arr) {
 
             System.out.println("三国武将:"+s);
